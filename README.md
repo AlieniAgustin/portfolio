@@ -13,7 +13,7 @@ The site is built as a **static web application** (SPA feel) without a backend d
 The project follows a clean and modular architecture to separate content, styles, and logic.
 
 ```text
-/portfolio-agustin
+/portfolio
 │
 ├── index.html            # Main entry point (Semantic HTML5)
 ├── README.md             # Project documentation
